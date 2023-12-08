@@ -9,7 +9,7 @@ import TabNavigation from './App/Navigations/TabNavigation';
 import { NavigationContainer } from '@react-navigation/native';
 import { useFonts } from 'expo-font';
 
-export default function App() {
+export default function index() {
   const [fontsLoaded] = useFonts({
     'appfont': require('./assets/fonts/Outfit-Regular.ttf'),
     'appfont-bold': require('./assets/fonts/Outfit-Bold.ttf'),
