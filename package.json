@@ -6,9 +6,7 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web",
-    "predeploy": "npm run build",
-    "build": "npx expo export"
+    "web": "expo start --web"
   },
   "dependencies": {
     "@clerk/clerk-expo": "^0.19.22",
