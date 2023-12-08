@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/app.js"
+  to = "/App.js"
   status = 200
