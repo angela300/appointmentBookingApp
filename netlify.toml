@@ -4,5 +4,9 @@
 
 [[redirects]]
   from = "/*"
+<<<<<<< HEAD
   to = "/app/index.html"
+=======
+  to = "/App.js"
+>>>>>>> bf36c2821dfe25b1f1dc6a5f4193dac99d154ff1
   status = 200
