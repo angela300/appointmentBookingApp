@@ -2,7 +2,7 @@
 
  Build on ReactJS, React Native and Expo
 
-UI Build Accessible on: https://657479b160517d6cc9c11fa2--calm-bubblegum-9d957a.netlify.app/
+UI Build Accessible on: https://65747b3cfc89906ba7c1280f--poetic-concha-db6aa4.netlify.app/
 
 
  
